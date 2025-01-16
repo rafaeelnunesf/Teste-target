@@ -1,0 +1,17 @@
+C:\Users\rafael.ferreira\Desktop\Teste target\obj\Debug\net8.0\Teste target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.ferreira\Desktop\Teste target\obj\Debug\net8.0\Teste target.AssemblyInfoInputs.cache
+C:\Users\rafael.ferreira\Desktop\Teste target\obj\Debug\net8.0\Teste target.AssemblyInfo.cs
+C:\Users\rafael.ferreira\Desktop\Teste target\obj\Debug\net8.0\Teste target.csproj.CoreCompileInputs.cache
+C:\Users\rafael.ferreira\Desktop\Teste target\bin\Debug\net8.0\Teste target.exe
+C:\Users\rafael.ferreira\Desktop\Teste target\bin\Debug\net8.0\Teste target.deps.json
+C:\Users\rafael.ferreira\Desktop\Teste target\bin\Debug\net8.0\Teste target.runtimeconfig.json
+C:\Users\rafael.ferreira\Desktop\Teste target\bin\Debug\net8.0\Teste target.dll
+C:\Users\rafael.ferreira\Desktop\Teste target\bin\Debug\net8.0\Teste target.pdb
+C:\Users\rafael.ferreira\Desktop\Teste target\obj\Debug\net8.0\Teste target.dll
+C:\Users\rafael.ferreira\Desktop\Teste target\obj\Debug\net8.0\refint\Teste target.dll
+C:\Users\rafael.ferreira\Desktop\Teste target\obj\Debug\net8.0\Teste target.pdb
+C:\Users\rafael.ferreira\Desktop\Teste target\obj\Debug\net8.0\Teste target.genruntimeconfig.cache
+C:\Users\rafael.ferreira\Desktop\Teste target\obj\Debug\net8.0\ref\Teste target.dll
+C:\Users\rafael.ferreira\Desktop\Teste target\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\rafael.ferreira\Desktop\Teste target\obj\Debug\net8.0\Teste target.csproj.AssemblyReference.cache
+C:\Users\rafael.ferreira\Desktop\Teste target\obj\Debug\net8.0\Teste ta.3707A08B.Up2Date
